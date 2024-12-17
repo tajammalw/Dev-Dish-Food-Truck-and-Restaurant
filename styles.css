@@ -1,0 +1,53 @@
+body {
+    background-image: linear-gradient(90deg, #f3b5b5, #f5f5f5);
+    background-size: cover; /* Ensures the image scales to cover the element */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Centers the image */
+
+}
+
+.header {
+    background: #f5d3e700;
+    color: #f9e4cc;
+    padding: 1rem 0;
+    text-align: center;
+    position:fixed;
+}
+
+.nav-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+    text-align: left;
+
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+    color: #ffddb7;
+}
+
+nav ul {
+    list-style: none;
+}
+
+.hero-img {
+    height: 70vh;
+}
+
+.dev1-img {
+    width: 40vw;
+    height: 50vh
+}
+
+.dev2-img {    
+    height: 40vh;
+}
+.content-section {
+    text-align: center;
+}
+
+.footer {
+    
+    text-align: center;
+}
